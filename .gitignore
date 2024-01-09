@@ -24,7 +24,6 @@ hs_err_pid*
 replay_pid*
 
 ### Eclipse ###
-
 .metadata
 bin/
 tmp/
@@ -36,3 +35,19 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Maven #
+target/
+/.mvn
+/.maven
+/.repository
+.flattened-pom.xml
